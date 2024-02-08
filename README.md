@@ -1,4 +1,4 @@
 # odin-recipes
 Odin Project recipes html project
 
-This small project will demonstrate my understing of fundemental html concepts in application. The use of elements such as <p>,<img> <h>, <br>, <li> to nam a few.
+This modest project aims to showcase my understanding of fundamental HTML concepts in practice. It will involve the utilization of elements such as <p>, <img>, <h>, <br>, <li>, to name a few.
